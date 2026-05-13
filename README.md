@@ -404,4 +404,5 @@ MIT License - Feel free to use and modify
 
 ## Author
 
+Moses EYONG (AWS Solution Architect)
 Created with ☸️ and Terraform
